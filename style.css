@@ -1,0 +1,28 @@
+p {
+    font-family: 'Bungee', cursive;
+    font-size: 3rem;
+}
+h1 {
+    font-size: 2rem;
+}
+#content{
+    background-color: #E38AAE;
+    padding-top: 150px;
+}
+body {
+    background-color: #fa84b3;
+}
+.gallery{
+    background-color: #E38AAE;
+    padding: 80px 0;
+}
+img{
+    max-width: 100%;
+}
+.gallery img{
+    background-color: #ffffff;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0,3);
+    cursor: pointer;
+}
